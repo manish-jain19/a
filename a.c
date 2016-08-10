@@ -2,6 +2,7 @@
 /* bonjour */
 /* namaste */
 /* good */
+/* very good */
 #include<stdio.h>
 int main()
 {
