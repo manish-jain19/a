@@ -1,5 +1,6 @@
 /* hello */
 /* bonjour */
+/* namaste */
 #include<stdio.h>
 int main()
 {
