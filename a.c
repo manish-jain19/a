@@ -1,4 +1,5 @@
 /* hello */
+/* bonjour */
 #include<stdio.h>
 int main()
 {
@@ -7,5 +8,7 @@ int main()
    scanf("\t%d\t%d",&a,&b);
    c = a + b;
    printf("\n\tSum of entered numbers = %d\n",c);
+    c = a - b;
+   printf("\n\tDiff of entered numbers = %d\n",c);
    return 0;
 }
